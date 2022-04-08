@@ -13,4 +13,5 @@ postRun:
      command:
         - node --version
 configFile: mocharc.yml
+nodeVersion: 12.13.0
 version: 1.0
